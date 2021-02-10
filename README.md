@@ -32,6 +32,8 @@ Some Features
 -------------
 * GDT
 * IDT
+* ISR
+* IRQ
 * VGA Driver
 * Keyboard Driver
 * Timer
