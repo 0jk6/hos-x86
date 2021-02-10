@@ -25,6 +25,9 @@ void kshell(char s[], int i){
   else if(strcmp(s, "hlt")==0){
   	halt();
   }
+  else if(strcmp(s, "version")==0) {
+    kprintf("hos-x86 Version 0.3\n");
+  }
   else if(strcmp(s, "reboot")==0){
   	reboot();
   }
