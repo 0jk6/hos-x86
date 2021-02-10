@@ -28,7 +28,7 @@ To run it using GRUB bootloader,
 qemu-system-i386 hos-x86.iso
 ```
 
-Some Features
+Features
 -------------
 * GDT
 * IDT
